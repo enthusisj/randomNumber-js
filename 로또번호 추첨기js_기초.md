@@ -121,5 +121,5 @@ parseInt(); 는 소수점은 버리고 정수로 변환해주는 함수이다.
 ```
 
 ## 실행결과
-![logo](/javascript/result.jpg"result")  
+[![logo](result.jpg)](https://github.com/enthusisj/randomNumber-js/blob/master/result.jpg)
 
